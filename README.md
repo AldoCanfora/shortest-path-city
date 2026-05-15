@@ -13,4 +13,6 @@ Type the name of a neighbourhood that shares a border with your current position
 
 <br>
 
+<br>
+
 Try it here: [shortest-path-city](https://aldocanfora.github.io/shortest-path-city/)
