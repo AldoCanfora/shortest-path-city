@@ -2,7 +2,7 @@
 
 Find the Shortest Path Through Your City!
 
-## How to Play ShortestPathCityGoal: 
+## How to Play ShortestPathCity: 
 Navigate from one neighbourhood to another by naming adjacent zones — in as few hops as possible.
 
 Each round you get two neighbourhoods: a Start (green) and a Destination (red).
